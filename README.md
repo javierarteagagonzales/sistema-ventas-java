@@ -1,2 +1,2 @@
-# sistema-ventas-java
-Sistema básico de ventas y MySQL
+# sistema-de-ventas-java-mysql
+sistemas de ventas personalizable
